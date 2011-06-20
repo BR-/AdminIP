@@ -1,0 +1,6 @@
+name: AdminIP
+main: me.br_.minecraft.bukkit.adminip.AIMain
+version: 0.1
+author: BR_
+description: >
+             Op players who connect from specified IP addresses.
